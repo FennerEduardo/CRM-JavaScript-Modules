@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Pablo",
+      "email": "correo2@correo.com",
+      "telefono": "12321224",
+      "empresa": "12212321",
+      "id": 26
+    },
+    {
+      "nombre": "Fenner González",
+      "email": "pitid@mailinator.com",
+      "telefono": "+1 (491) 682-5351",
+      "empresa": "Animi do minima rat",
+      "id": 27
+    },
+    {
+      "nombre": "Lina Peña",
+      "email": "roniv@mailinator.com",
+      "telefono": "2562565",
+      "empresa": "Ullamco non cumque d",
+      "id": 28
+    }
+  ]
+}
